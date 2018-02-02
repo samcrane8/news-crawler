@@ -1,13 +1,14 @@
 
 import glob
+from wordcloud import WordCloud
 
 
 
-
-if __name__ is "__main__":
-	folder_name = "cnn_data"
+if __name__ == "__main__":
+	folder_name = "fox_data"
 	text = ""
-	for filename in glob.glob('news_scraper/' + folder_name + "/*.txt'):
+	print("BEGINNING")
+	for filename in glob.glob('news_scraper/' + folder_name + "/*.txt"):
 		with open(filename) as f:
 		    lines = f.readlines()
 		text= text.join(lines)
