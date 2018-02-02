@@ -17,6 +17,22 @@ repo: https://github.com/amueller/word_cloud
 pip install wordcloud
 
 
+## About
+
+### Goals
+
+### Tests
+
+I did a test, starting with two different articles for CNN and Fox, each focused on the nunes memo. The spiders start at their respective articles, and then begins crawling to links on that page that link to the respective domain of the initial article. This way I can jump through any recommended articles without having to code too much intelligence. There is an issue of articles being over represented, and it would be good to add a portion that tests if data has already been scraped.
+
+Here is a visual of the cnn wordcloud: 
+
+![alt text](https://raw.githubusercontent.com/samcrane8/news-crawler/master/cnn_wordcloud.png)
+
+Here is the fox wordcloud:
+
+![alt text](https://raw.githubusercontent.com/samcrane8/news-crawler/master/fox_wordcloud.png)
+
 ## Authors
 
 * **Sam Crane** 
