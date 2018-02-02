@@ -11,26 +11,15 @@ Based on the Scrapy library, these spiders are built to collect information from
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Install the wordcloud generator:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+repo: https://github.com/amueller/word_cloud
+pip install wordcloud
 
 
 ## Authors
 
-* **Sam Crane** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sam Crane** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
