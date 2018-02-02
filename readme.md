@@ -1,4 +1,4 @@
-# News Scraper
+# News Scraper (Nunes Memo)
 
 Based on the Scrapy library, these two spiders are built to collect information from CNN and FOX (respectively). The data is stored in text files, and then the second portion of the code visualizes this data.
 
