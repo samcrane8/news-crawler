@@ -21,8 +21,6 @@ pip install wordcloud
 
 * **Sam Crane** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 I haven't set up a license yet. I will get around to it!
