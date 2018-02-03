@@ -37,7 +37,12 @@ I did a test, starting with two different articles for CNN and Fox, each focused
 
 ### Speed
 
-    This portion will show the speed at which this webcrawler is reading articles.
+This portion will show the speed at which this webcrawler is reading articles.
+    
+| Site | Time Elapsed (1 minute) |
+| ------------- | ------------- |
+| CNN | 295 pgs.  |
+| FOX  | 458 pgs. |
 
 ## Authors
 
@@ -46,6 +51,7 @@ I did a test, starting with two different articles for CNN and Fox, each focused
 ## License
 
 I haven't set up a license yet. I will get around to it!
+
 
 ## Acknowledgments
 
