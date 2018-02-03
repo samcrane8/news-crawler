@@ -37,7 +37,7 @@ I did a test, starting with two different articles for CNN and Fox, each focused
 
 ### Speed
 
-This portion will show the speed at which this webcrawler is reading articles.
+This portion will show the speed at which this webcrawler is reading articles. The Pg./min. speed is much higher on FOX, though FOX articles on average seemed to be shorter, which is a possible cause.
     
 | Site | Time Elapsed (1 minute) |
 | ------------- | ------------- |
