@@ -16,6 +16,16 @@ Install the wordcloud generator:
 repo: https://github.com/amueller/word_cloud
 pip install wordcloud
 
+### Running
+
+To run, start from the root.
+
+cd news_scraper
+scrapy crawl cnn_spider #To run the CNN spider.
+
+scrapy craw fox_spider #to run the Fox spider.
+
+Their data is stored in randomly hashed text files in cnn_data and fox_data respectively.
 
 ## About
 
